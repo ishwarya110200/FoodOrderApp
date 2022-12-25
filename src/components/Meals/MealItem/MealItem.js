@@ -31,3 +31,4 @@ const MealItem = props =>{
 export default MealItem;
 
 //meal component text
+//text
